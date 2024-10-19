@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "382038351892",
+    "project_id": "botique-shop",
+    "storage_bucket": "botique-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382038351892:android:eb119dc0a2370046474701",
+        "android_client_info": {
+          "package_name": "com.example.boutique_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382038351892-rlpe5kk5cop9vp23u8h04lbjr6p9kpu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boutique_shop",
+            "certificate_hash": "76a31872230770d92472efa82ac4c8e198deabcf"
+          }
+        },
+        {
+          "client_id": "382038351892-8ijcg0g1bts79t49q73g53s66kesm4be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9tGs-duIj5AucXttxIxVWjsJ3RydmJeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382038351892-8ijcg0g1bts79t49q73g53s66kesm4be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
